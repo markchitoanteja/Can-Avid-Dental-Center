@@ -1,0 +1,6 @@
+{
+    "require": {
+        "endroid/qr-code": "^6.0",
+        "ramsey/uuid": "^4.9"
+    }
+}
